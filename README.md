@@ -1,6 +1,6 @@
 # Siyao Chen academic homepage
 
-This is a zero-build static site prepared for GitHub Pages. It does not copy the source code or visual assets of `ActiMecha/hit` or any other personal website.
+This is a zero-build, bilingual static site prepared for GitHub Pages. `index.html` is the English page and `zh.html` is the Chinese page. It does not copy the source code or visual assets of `ActiMecha/hit` or any other personal website.
 
 ## Publish as the primary GitHub Pages site
 
